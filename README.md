@@ -9,4 +9,4 @@ Skills: -> **HardSkills***: Linux / Git and GitHub / Docker / Ansible / Terrafor
 - 👯 I’m looking to collaborate on DevOps related Projects. 
 - 🤔 I’m looking for help with my Coding Journey. 
 - 💬 Ask me about DevOps and AWS Cloud and Resource for learning. 
-- 📫 How to reach me: in/shubhangi-singh-888839316  
+- 📫 How to reach me: https://www.linkedin.com/in/shubhangi-singh-888839316
